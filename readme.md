@@ -14,7 +14,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=synccord.sectorcc&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=synccord..github&"  />
 </div>
 
 ###
