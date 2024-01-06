@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://cdn.sector.top/assets/24188203644751876/CjFIpAEB_2x.jpg"  />
+  <img height="150" src="https://cdn.synccord.com/synccord_logo.png"  />
 </div>
 
 ###
@@ -14,7 +14,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sectorcc.sectorcc&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=synccord.sectorcc&"  />
 </div>
 
 ###
