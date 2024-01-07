@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://cdn.synccord.com/logo_text_4.svg"  />
+  <img height="150" src="https://cdn.synccord.com/logo.svg"  />
 </div>
 
 ###
